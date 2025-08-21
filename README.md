@@ -25,5 +25,3 @@ It is a Java program that simulates buying concert tickets online. It uses user 
 - This project was completed using BlueJ.
 - All source code is written in Java.
 
-## About
-AP CSA Project: OnlinePurchase
