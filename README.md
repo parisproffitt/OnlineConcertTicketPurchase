@@ -2,18 +2,24 @@
 
 ## Description
 This project is part of my AP Computer Science A coursework.  
-It is a Java program that simulates buying concert tickets online. It uses user input to perform calculations and display ticket information.
+This Java program allows users to purchase concert tickets online in a simulated environment. It demonstrates fundamental concepts of Java programming, including user input, data processing, string manipulation, and formatted output. The program collects necessary information from the user, calculates costs, and prints a formatted e-receipt.
 
 ## Features
-- Prompts the user to enter the number of tickets and ticket type.
-- Calculates the total cost.
-- Displays a summary of the purchase.
-- Includes validation for user input.
+- Collects the user’s name, date, concert selection, number of tickets, ticket price, card number, and PIN.
+- Demonstrates the use of the Scanner class to read strings and numbers from the console.
+- Uses Integer.parseInt() and Double.parseDouble() to convert string input into numeric types.
+- Splits the full name to extract the first initial and last name, showing string manipulation and array usage.
+- Generates a unique order number by combining the first two letters of the user’s last name and the last three digits of their card number.
+- Masks the debit card number for privacy, displaying only the last four digits.
+- Calculates the total cost of the tickets using multiplication, demonstrating basic arithmetic operations.
+- Uses DecimalFormat to display monetary values with two decimal places.
+- Prints a professional, readable e-receipt with all relevant purchase details.
+- Demonstrates concatenation and formatting for improved user experience.
 
 ## How to Run
 1. Open the project in BlueJ.
 2. Compile all classes.
-3. Run the main class (`BuyConcertTickets`).
+3. Run the main class (`OnlinePurchase`).
 4. Enter the required input when prompted.
 5. View the purchase summary output.
 
