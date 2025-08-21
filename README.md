@@ -1,4 +1,4 @@
-# Project Name: OnlinePurchase
+# Purchasing Concert Tickets Online Simulation
 
 ## Description
 This project is part of my AP Computer Science A coursework.  
@@ -23,7 +23,7 @@ This Java program allows users to purchase concert tickets online in a simulated
 4. Enter the required input when prompted.
 5. View the purchase summary output.
 
-## Screenshots
+## Sample Output
 ![ConcertTickets Screenshot 1](ConcertTicketsSS1.png)
 ![ConcertTickets Screenshot 2](ConcertTicketsSS2.png)
 
