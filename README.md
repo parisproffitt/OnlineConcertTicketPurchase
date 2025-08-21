@@ -19,7 +19,7 @@ This Java program allows users to purchase concert tickets online in a simulated
 ## How to Run
 1. Open the project in BlueJ.
 2. Compile all classes.
-3. Run the main class (`OnlinePurchase`).
+3. Run the main class (`BuyConcertTickets`).
 4. Enter the required input when prompted.
 5. View the purchase summary output.
 
